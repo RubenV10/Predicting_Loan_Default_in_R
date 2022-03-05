@@ -1,2 +1,2 @@
-# Loan_Default (R) - Classification
- Predicting Customer Loan Default in R
+# Predicting Loan Default in R
+ This is the R version of the Predicting Loan Default classification problem.
